@@ -62,3 +62,5 @@ Menu Optimization
 -Microsoft Power BI —> for dashboard creation and DAX calculations.
 
 -Excel / CSV —> for data pre-processing.
+
+Preview-https://github.com/niswabiswas/pizza_sales_dashboard/blob/main/ScreenShot%20of%20Dashboard.png
